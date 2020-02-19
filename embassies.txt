@@ -1,0 +1,136 @@
+ABD, Abu Dhabi, United Arab Emirates
+ABJ, Abidjan, Cote d'Ivoire
+ACC, Accra, Ghana
+ACK, Auckland, New Zealand
+ADD, Addis Ababa, Ethiopia
+AKD, Ashgabat, Turkmenistan
+ALG, Algiers, Algeria 
+AMM, Amman, Jordan
+AMS, Amsterdam, Netherlands
+ANK, Ankara, Turkey
+ANT, Antananarivo, Madagascar
+ASN, Asuncion, Paraguay
+ATA, Almaty, Kazakhstan
+ATH, Athens, Greece
+BCH, Bucharest, Romania
+BDP, Budapest, Hungary
+BEN, Bern, Switzerland
+BGH, Baghdad, Iraq
+BGN, Bridgetown, Barbados 
+BGT, Bogota, Colombia
+BKK, Bishkek, Kyrgyzstan
+BLG, Belgrade, Serbia
+BLZ, Belmopan, Belize
+BMB, Mumbai, India
+BNK, Bangkok, Thailand
+BNS, Buenos Aires, Argentina
+BRS, Brussels, Belgium
+BRT, Beirut, Lebanon
+BRZ, Brazzaville, Republic of the Congo
+BTS, Bratislava, Slovakia
+CDJ, Ciudad Juarez, Mexico
+CHS, Chisinau, Moldova
+CLM, Colombo, Sri Lanka
+COT, Cotonou, Benin
+CRO, Cairo, Egypt
+CRS, Caracas, Venezuela
+CSB, Casablanca, Morocco
+DBL, Dublin, Ireland
+DHK, Dhaka, Bangladesh
+DJI, Djibouti, Djibouti
+DKR, Dakar, Senegal
+DOH, Doha, Qatar
+DRS, Dar Es Salaam, Tanzania
+FRN, Frankfurt, Germany
+FTN, Freetown, Sierra Leone
+GEO, Georgetown, Guyana
+GTM, Guatemala City, Guatemala
+GUZ, Guangzhou, China
+GYQ, Guayaquil, Ecuador
+HAV, Havana, Cuba
+HCM, Ho Chi Minh City, Vietnam
+HLS, Helsinki, Finland
+HML, Hamilton, Bermuda
+HNK, Hong Kong, China
+HRE, Harare, Zimbabwe
+ISL, Islamabad, Pakistan
+JAK, Jakarta, Indonesia
+JHN, Johannesburg, South Africa
+JRS, Jerusalem, Israel
+KBL, Kabul, Afghanistan
+KDU, Kathmandu, Nepal
+KEV, Kyiv, Ukraine
+KGL, Kigali, Rwanda
+KHT, Khartoum, Sudan
+KIN, Kinshasa, Democratic Republic of the Congo
+KLL, Kuala Lumpur, Malaysia
+KNG, Kingston, Jamaica
+KWT, Kuwait, Kuwait
+LGS, Lagos, Nigeria
+LIB, Libreville, Gabon
+LIL, Lilongwe, Malawi
+LJU, Ljubljana, Slovenia
+LMA, Lima, Peru
+LND, London, United Kingdom
+LOM, Lome, Togo
+LPZ, La Paz, Bolivia
+LUA, Luanda, Angola
+LUS, Lusaka, Zambia
+MDD, Madrid, Spain
+MNA, Manama, Bahrain
+MNG, Managua, Nicaragua
+MNL, Manila, Philippines
+MOS, Moscow, Russia
+MRV, Monrovia, Liberia
+MST, Muscat, Oman
+MTL, Montreal, Canada
+MTV, Montevideo, Uruguay
+NCS, Nicosia, Cyprus
+NHA, Naha, Japan
+NMY, Niamey, Niger
+NPL, Naples, Italy
+NRB, Nairobi, Kenya
+NSS, Nassau, Bahamas
+NWD, New Delhi, India
+OUG, Ouagadougou, Burkina Faso 
+PHP, Phnom Penh, Cambodia
+PIA, Praia, Cape Verde
+PNM, Panama City, Panama
+PRG, Prague, Czech Republic
+PRI, Pristina, Kosovo
+PRS, Paris, France
+PTM, Port Moresby, Papua New Guinea
+PTP, Port-au-Prince, Haiti
+PTS, Port Of Spain, Trinidad and Tobago
+RDJ, Rio De Janeiro, Brazil
+RGA, Riga, Latvia
+RID, Riyadh, Saudi Arabia
+RKJ, Reykjavik, Iceland
+RNG, Rangoon, Burma
+SAA, Sanaa, Yemen
+SAR, Sarajevo, Bosnia and Herzegovina
+SDO, Santo Domingo, Dominican Republic
+SEO, Seoul, South Korea
+SGP, Singapore, Singapore
+SKO, Skopje, Macedonia
+SNJ, San José, Costa Rica
+SNT, Santiagoi, Chile
+SOF, Sofia, Bulgaria
+STK, Stockholm, Sweden
+SUV, Suva, Fiji
+SYD, Sydney, Australia
+TAI, Taipei, Taiwan
+TAL, Tallinn, Estonia
+TBL, Tbilisi, Georgia
+TGG, Tegucigalpa, Honduras
+THT, Tashkent, Uzbekistan
+TIA, Tirana, Albania
+TKY, Tokyo, Japan
+TNS, Tunis, Tunisia
+ULN, Ulaanbaatar, Mongolia
+VIL, Vilnius, Lithuania
+VNN, Vienna, Austria
+WRW, Warsaw, Poland
+YDE, Yaounde, Cameroon
+YRV, Yerevan, Armenia
+ZGB, Zagreb, Croatia
